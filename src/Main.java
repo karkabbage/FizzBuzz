@@ -3,3 +3,5 @@ public class Main {
         FizzBuzz.main(null);
     }
 }
+
+//lol
